@@ -12,6 +12,7 @@ https://github.com/yxlllc/ActivateCortana
 
 ## Building Tips
 · You need Multi-byte compilation using VS 2017(Recommended)
+
 · You cannot use this program for any commercial purpose. If you really need, contact me at my e-mail.
 
 Happy using!
