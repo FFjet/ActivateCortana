@@ -12,6 +12,7 @@ https://github.com/yxlllc/ActivateCortana
 
 ## Operation effect
 After Operations:
+![Image text](https://github.com/Leoleepz/ActivateCortana/blob/master/tt.jpg)
 
 
 ## Building Tips
