@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ActivateCortana.cpp
+  ActivateCortanaDlg.cpp
+c:\users\leole\source\repos\activatecortana\activatecortana\Reg.h(32): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据 (编译源文件 ActivateCortanaDlg.cpp)
+c:\users\leole\source\repos\activatecortana\activatecortana\Reg.h(40): warning C4312: “类型转换”: 从“DWORD”转换到更大的“const BYTE *” (编译源文件 ActivateCortanaDlg.cpp)
+  正在生成代码
+c:\users\leole\source\repos\activatecortana\activatecortana\reg.h(26): warning C4715: “CreateKey”: 不是所有的控件路径都返回值
+  All 239 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ActivateCortana.vcxproj -> C:\Users\Leole\Source\Repos\ActivateCortana\x64\Release\ActivateCortana.exe
