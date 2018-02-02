@@ -10,9 +10,13 @@ It is first created by yxlllc using powershell script, but I think that's not ea
 Origin powershell script here:
 https://github.com/yxlllc/ActivateCortana
 
+## Operation effect
+After Operations:
+
+
 ## Building Tips
 · You need Multi-byte compilation using VS 2017(Recommended)
 
-· You cannot use this program for any commercial purpose. If you really need, contact me at my e-mail.
+· You cannot use this program for any commercial purpose. If you really need it for this, contact me at my e-mail.
 
 Happy using!
