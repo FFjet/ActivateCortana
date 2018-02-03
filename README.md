@@ -18,6 +18,6 @@ After Operations:
 ## Building Tips
 · You need Multi-byte compilation using VS 2017(Recommended)
 
-· You cannot use this program for any commercial purpose. If you really need it for this, contact me at my e-mail.
+· You can use this program for commercial purpose. But before using it, please contact me at my e-mail.
 
 Happy using!
